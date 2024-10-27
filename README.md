@@ -17,4 +17,4 @@
 `pip install -r requirements.txt`
 
 ## Opening Jupyter Notebook
-`jupyter notebook
+`jupyter notebook`
